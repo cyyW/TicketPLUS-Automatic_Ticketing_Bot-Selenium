@@ -11,10 +11,13 @@
 * Python `3.8.18`
 * Chrome Driver : [請依據自身瀏覽器下載相應版本並替換](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 * ddddocr : 請參考 **自動識別驗證碼** 部分
- 
+* 
+## 執行影片
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xHZOzDat1ZQ/0.jpg)](https://www.youtube.com/watch?v=xHZOzDat1ZQ" "遠大-自動購票機器人-Selenium") 
+
 ## 使用說明 
 ### 操作步驟:
-1. 目前僅能夠抓取[遠大購票網站](https://ticketplus.com.tw/)中的部分購票類型
+1. 目前僅能夠抓取[遠大購票網站](https://ticketplus.com.tw/)中的**部分購票類型(如下圖)**。
 2. 需自行於 [run.py](https://github.com/cyyW/TicketPLUS-Automatic_Ticketing_Bot-Selenium/blob/main/run.py) 輸入資料 : 帳號、密碼、**關鍵字設置(參考以下)**、購票張數
 3. 執行程式後，將會進入遠大的首頁，等待其自動輸入會員後會進行等待
 4. **請於遠大首頁自行點選你想要的活動即開始搶票**，而後就會根據你的關鍵字自動點選。
