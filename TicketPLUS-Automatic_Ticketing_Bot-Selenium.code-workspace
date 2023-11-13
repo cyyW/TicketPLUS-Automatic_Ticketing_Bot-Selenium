@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"name": "LSTM_Sentiment-Analysis_zh-tw",
+			"path": "../../LSTM_SA/LSTM_Sentiment-Analysis_zh-tw"
+		},
+		{
+			"name": "selenium-crawler-googlemap2",
+			"path": "../../selenium-crawler-googlemap2/selenium-crawler-googlemap2"
+		},
+		{
+			"name": "crawler",
+			"path": "../../vscode作業檔/crawler"
+		},
+		{
+			"name": "Rstudio",
+			"path": "../../R語言/Rstudio"
+		},
+		{
+			"name": "SQL_python_demo",
+			"path": "../../SQL_課程區/SQL_python_demo"
+		},
+		{
+			"name": "SQL_java_demo",
+			"path": "../../SQL_課程區/SQL_java_demo"
+		},
+		{
+			"path": "../../SQL_課程區/ORM"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"maven.terminal.favorites": [
+			{
+				"command": "servlet",
+				"debug": false
+			},
+			{
+				"command": "servlet",
+				"debug": false
+			}
+		],
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
