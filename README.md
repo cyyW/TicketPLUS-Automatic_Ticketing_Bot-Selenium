@@ -29,8 +29,8 @@
    例1 : ["兒童","身障","愛心","Restricted View"] -> 排除包含 (兒童 或 身障 或 愛心 或 Restricted View) 的項目。
 
 ## 自動識別驗證碼
-### 使用 带带弟弟OCR : 
-[sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
+### 使用元件 : 
+带带弟弟OCR : [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 ### 安裝 :
 ```
 pip install ddddocr
