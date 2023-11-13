@@ -2,9 +2,9 @@ from mycode import ticket_plus
 
 '''  會員登入  '''
 # 帳號 :
-phone = "988221609"
+phone = "0000000000"
 # 密碼 :
-possword = "wygHiq-0xacfu-mojjaq"
+possword = "aaaaaaaaaaaa"
 ''''''
 
 '''  關鍵字(頁1)  '''
