@@ -42,6 +42,11 @@
    
    例1 : ["兒童","身障","愛心","Restricted View"] -> 排除包含 (兒童 或 身障 或 愛心 或 Restricted View) 的項目。
 
+## 程式設計
+可參閱 [selenium_ticket_手稿](https://github.com/cyyW/TicketPLUS-Automatic_Ticketing_Bot-Selenium/blob/main/selenium_ticket_%E6%89%8B%E7%A8%BF.pdf)
+
+其中包含大致的設計流程圖及功能設計的手寫草稿，雖然蠻亂的:joy:
+
 ## 自動識別驗證碼
 ### 使用元件 : 
 带带弟弟OCR : [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
