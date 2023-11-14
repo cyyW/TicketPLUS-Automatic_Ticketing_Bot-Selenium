@@ -55,7 +55,7 @@ pip install ddddocr
 
 ` AttributeError: module 'PIL.Image' has no attribute 'ANTIALIAS' `
 
-我參考自 [此StackoverFlow](https://stackoverflow.com/questions/76616042/attributeerror-module-pil-image-has-no-attribute-antialias)，並用以下方法解決。
+參考自 [此StackoverFlow](https://stackoverflow.com/questions/76616042/attributeerror-module-pil-image-has-no-attribute-antialias)，並用以下方法解決。
 ```
 pip uninstall Pillow
 pip install Pillow==9.5.0 
