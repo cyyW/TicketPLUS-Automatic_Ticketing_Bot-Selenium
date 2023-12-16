@@ -34,8 +34,7 @@ def ticket_plus (phone,possword,keyword_1s,keywordNo_1s,keyword_2s,keywordNo_2s,
         wait = WebDriverWait(driver, 10)
         element = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "input-tel__input")))
 
-        number = driver.find_element(By.CLASS_NAME, "input-tel__input")
-        # number.send_keys("988221609")
+        number = driver.find_element(By.CLASS_NAME, "input-tel__input")  
         actions.move_to_element(number).click().send_keys(phone).perform()
 
         possword_button = driver.find_element(By.CLASS_NAME,"v-text-field__slot")
